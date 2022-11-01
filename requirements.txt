@@ -32,4 +32,5 @@ optuna
 requests
 tabulate
 future
+opencv-python
 h2o==3.38.0.2
